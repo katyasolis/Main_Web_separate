@@ -31,7 +31,7 @@ let tooltip;
 
   //Different Pages
   function goToDifferentPage(){
-    window.location.href = "http://127.0.0.1:3000/ItemOnePage/item-one.html";
+    window.location.href = "https://katyasolis.github.io/CamPage_Web_separate/";
   }
 
   function goToDifferentPageTwo(){
