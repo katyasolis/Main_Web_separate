@@ -35,7 +35,7 @@ let tooltip;
   }
 
   function goToDifferentPageTwo(){
-    window.location.href = "http://127.0.0.1:3000/ItemTwoPage/item-two.html";
+    window.location.href = "https://katyasolis.github.io/MirrorPage_Web_separate/";
   }
 
   function goToDifferentPageThree(){
