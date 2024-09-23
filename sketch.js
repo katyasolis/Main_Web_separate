@@ -39,7 +39,7 @@ let tooltip;
   }
 
   function goToDifferentPageThree(){
-    window.location.href = "http://127.0.0.1:3000/ItemThreePage/item-three.html";
+    window.location.href = "https://katyasolis.github.io/ShellPage_Web_separate/";
   } 
 
   function windowResized() {
