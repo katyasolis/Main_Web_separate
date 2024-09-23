@@ -3,10 +3,10 @@ let Room, Camera, Mirror, Shell;
 let tooltip;
 
   function preload() {
-    Room = loadImage("/Images/EUI_Project_1_Background - pre finished project.png");
-    Camera = loadImage("/Images/Camera Item Big.png");
-    Mirror = loadImage("/Images/EUI_Project_1_Mirror.png");
-    Shell = loadImage("/Images/EUI_Project_1_Shell.png");
+    Room = loadImage("EUI_Project_1_Background - pre finished project.png");
+    Camera = loadImage("Camera Item Big.png");
+    Mirror = loadImage("EUI_Project_1_Mirror.png");
+    Shell = loadImage("EUI_Project_1_Shell.png");
   }
 
   function setup() {
